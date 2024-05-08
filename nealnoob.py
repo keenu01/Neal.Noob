@@ -123,10 +123,8 @@ while active == True:
     press = input("Begin Circle Drawring?:\t").lower()
     if press == "y":
         circle(step)
-        press = input("Yo! Want me to draw a cricle to flex on the noobs(y/n)").lower()
     elif press == "n":
-        press = input("Yo! Want me to draw a circle to flex on the noobs?(y/n)").lower()
         active = False
     else:
-        press = input("Yo! Want me to draw a circle to flex on the noobs?(y/n)").lower()
+        pass
 
