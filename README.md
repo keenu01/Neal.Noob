@@ -4,7 +4,7 @@
 DUNK ON NEAL!!!!
 
 ## Author
-This program was written by [@KEENU](https://github.com/KEENU).
+This program was written by [@KEENU](https://github.com/keenu01).
 
 
 You can change:
